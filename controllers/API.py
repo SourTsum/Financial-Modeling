@@ -1,15 +1,18 @@
 from controllers import FILE
 import requests
 
-def update_market_data():
+def get_current_market_data():
     market_data = requests.get("https://api.hypixel.net/v2/skyblock/bazaar")
     FILE.write_json(market_data.json(),'./output/market_data.json')
 
-def get_data():
+def get_cached_market_data():
     try:
-
         return FILE.get_json('./output/market_data.json')
     except Exception as e:
         with open("./output/logs.txt", "w") as logging:
             logging.write(str(e))
-        print(f"[API Controller]: full_data file doesn't exist OR can't read from file...")
+        print("[API Controller]: market_data file doesn't exist OR can't read from file...")
+
+def get_current_mayor_data():
+    market_data = requests.get("https://api.hypixel.net/v2/resources/skyblock/election")
+    FILE.write_json(market_data.json(),'./output/mayor_data.json')

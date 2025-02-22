@@ -1,40 +1,18 @@
-from datetime import datetime, timezone, timedelta
+from itertools import combinations
 
-from controllers import API
+from controllers import FILE
+import pandas as pd
 
-# Fetch market data
-# API.update_market_data()
-market_dict = API.get_data()
+election_results = pd.read_csv('data/election_results.csv')
 
+mayor = FILE.get_json("./output/mayor_data.json")
+current_mayor , current_minister = mayor["mayor"]["name"] , mayor["mayor"]["minister"]["name"]
 
+# gets active candidates
+candidates = ["Aatrox", "Diana", "Paul", "Marina", "Cole", "Foxy", "Finnegan", "Diaz"]
+active_candidates = candidates.copy()
+active_candidates.remove(current_mayor)
+active_candidates.remove(current_minister if current_minister != "Diaz" else None)
 
-print(f"[Update Time]: {(datetime.fromtimestamp(market_dict['lastUpdated'] / 1000 , tz=timezone.utc) + timedelta(hours=-7)).strftime('%Y-%m-%d %H:%M:%S MST')}")
-
-products = market_dict['products']
-
-max_imabalance = [float('-inf'),""]
-min_imabalance = [float('inf'),""]
-
-for contract_id in products:
-
-    contract = products[contract_id]
-    if "ENCHANTMENT" in contract['product_id']:
-        continue
-
-    total_orders = contract['quick_status']['buyVolume'] + contract['quick_status']['sellVolume']
-    order_difference = contract['quick_status']['buyVolume'] - contract['quick_status']['sellVolume']
-    imabalance = None if total_orders == 0 else order_difference / total_orders
-
-    print(f"[{contract['product_id']} Imbalance]: {imabalance}]")
-
-    if None != imabalance > max_imabalance[0] :
-        max_imabalance[0] = imabalance
-        max_imabalance[1] = contract['product_id']
-
-    if None != imabalance < min_imabalance[0]:
-        min_imabalance[0] = imabalance
-        min_imabalance[1] = contract['product_id']
-
-
-print(f"[Max Imbalanced Contract]: {max_imabalance[1]} | {max_imabalance[0]}")
-print(f"[Min Imbalanced Contract]: {min_imabalance[1]} | {min_imabalance[0]}")
+for thing in list(combinations(active_candidates, 5)):
+    print(list(thing))
