@@ -7,6 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 
-/output/2025/
-
-../data/hidden.env
+/output/
+/data/hidden.env
