@@ -20,7 +20,7 @@ async def on_message(message):
     if message.content.startswith('$hello'):
         await message.channel.send('Hello!')
 
-load_dotenv()
+load_dotenv(dotenv_path="data/hidden.env")
 token = os.getenv('DISCORD_BOT_TOKEN')
 
 client.run(token)
