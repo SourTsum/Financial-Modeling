@@ -1,0 +1,249 @@
+{
+  "Aatrox": {
+    "times_elected": 52,
+    "new_perk_chance": 48.35,
+    "average_perks": 1.86,
+    "average_vote_percentage": 71.12,
+    "average_vote_count": 565192,
+    "top_vote_percentage": 90.51,
+    "top_election_year": 345,
+    "top_vote_count": 990911,
+    "perks_map": [
+      {
+        "name": "SLASHED Pricing",
+        "description": "Starting Slayer quests is half price."
+      },
+      {
+        "name": "Slayer XP Buff",
+        "description": "Earn 25% more Slayer XP."
+      },
+      {
+        "name": "Pathfinder",
+        "description": "Gain rare drops 20% more often."
+      }
+    ]
+  },
+  "Diana": {
+    "times_elected": 49,
+    "new_perk_chance": 39.81,
+    "average_perks": 1.96,
+    "average_vote_percentage": 66.63,
+    "average_vote_count": 495780,
+    "top_vote_percentage": 88.82,
+    "top_election_year": 348,
+    "top_vote_count": 946721,
+    "perks_map": [
+      {
+        "name": "Lucky!",
+        "description": "Gain +25 Pet Luck."
+      },
+      {
+        "name": "Mythological Ritual",
+        "description": "Mayor Diana will sell the Griffin pet, which lets you find Mythological Creatures and tons of unique items."
+      },
+      {
+        "name": "Pet XP Buff",
+        "description": "Gain 35% more pet XP."
+      },
+      {
+        "name": "Sharing is Caring",
+        "description": "Unlocks 2 more Exp Share slots in your pets menu and increases the Exp Share rate by +10%!"
+      }
+    ]
+  },
+  "Paul": {
+    "times_elected": 47,
+    "new_perk_chance": 45.45,
+    "average_perks": 2.14,
+    "average_vote_percentage": 64.54,
+    "average_vote_count": 531985,
+    "top_vote_percentage": 81.56,
+    "top_election_year": 399,
+    "top_vote_count": 1048744,
+    "perks_map": [
+      {
+        "name": "Marauder",
+        "description": "Dungeon reward chests are 20% cheaper."
+      },
+      {
+        "name": "EZPZ",
+        "description": "Gain 10 extra bonus score in Dungeons."
+      },
+      {
+        "name": "Benediction",
+        "description": "Blessings are 25% stronger."
+      }
+    ]
+  },
+  "Marina": {
+    "times_elected": 42,
+    "new_perk_chance": 34.71,
+    "average_perks": 2.08,
+    "average_vote_percentage": 65.37,
+    "average_vote_count": 496856,
+    "top_vote_percentage": 77.61,
+    "top_election_year": 299,
+    "top_vote_count": 819811,
+    "perks_map": [
+      {
+        "name": "Fishing XP Buff",
+        "description": "Gain 50 ☯ Fishing Wisdom on public islands."
+      },
+      {
+        "name": "Luck of the Sea 2.0",
+        "description": "Gain 15 α Sea Creature Chance."
+      },
+      {
+        "name": "Fishing Festival",
+        "description": "Start a special fishing event during the first 3 days of each month! Fish and fight dangerous Sharks and earn unique Shark loot."
+      },
+      {
+        "name": "Double Trouble",
+        "description": "For every 1 α Sea Creature Chance, gain +0.1 ⚓ Double Hook Chance."
+      }
+    ]
+  },
+  "Cole": {
+    "times_elected": 31,
+    "new_perk_chance": 32.52,
+    "average_perks": 2.35,
+    "average_vote_percentage": 66.10,
+    "average_vote_count": 511938,
+    "top_vote_percentage": 81.70,
+    "top_election_year": 364,
+    "top_vote_count": 800787,
+    "perks_map": [
+      {
+        "name": "Prospection",
+        "description": "Stone Pickaxe Mining minions work 25% faster."
+      },
+      {
+        "name": "Mining XP Buff",
+        "description": "Get +60 ☯ Mining Wisdom on public islands."
+      },
+      {
+        "name": "Mining Fiesta",
+        "description": "Schedules 5 Mining Fiesta events that last for 7 Skyblock Days each. Earn 2x drops and extra unique loot, including Refined Mineral and Glossy Gemstone. Grants +75 ☯ Mining Wisdom during the event, which is only active on Public Islands."
+      },
+      {
+        "name": "Molten Forge",
+        "description": "Decrease the time it takes to forge items by 25%."
+      }
+    ]
+  },
+  "Foxy": {
+    "times_elected": 24,
+    "new_perk_chance": 23.19,
+    "average_perks": 2.12,
+    "average_vote_percentage": 65.40,
+    "average_vote_count": 461116,
+    "top_vote_percentage": 77.20,
+    "top_election_year": 355,
+    "top_vote_count": 820494,
+    "perks_map": [
+      {
+        "name": "Sweet Benevolence",
+        "description": "Earn +30% more Candy, Gifts, and Chocolate from duplicate Rabbits during their respective events."
+      },
+      {
+        "name": "Extra Event",
+        "description": "Schedules an extra event during the year, out of: Spooky Festival, Mining Fiesta, and Fishing Festival."
+      },
+      {
+        "name": "A Time for Giving",
+        "description": "Party Chests and Party Gifts can be obtained while this event is active."
+      },
+      {
+        "name": "Chivalrous Carnival",
+        "description": "Schedules a Carnival in the Hub that is active throughout the entire year."
+      }
+    ]
+  },
+  "Finnegan": {
+    "times_elected": 14,
+    "new_perk_chance": 29.49,
+    "average_perks": 2.93,
+    "average_vote_percentage": 61.41,
+    "average_vote_count": 592142,
+    "top_vote_percentage": 83.49,
+    "top_election_year": 242,
+    "top_vote_count": 821054,
+    "perks_map": [
+      {
+        "name": "Pelt-pocalypse",
+        "description": "Obtain 1.5x more Pelts from Trevor The Trapper. Hunt a new trapper mob and purchase items from Talbot."
+      },
+      {
+        "name": "GOATed",
+        "description": "Jacob's Farming Contest brackets include up to 10% more players each."
+      },
+      {
+        "name": "Blooming Business",
+        "description": "Garden Visitors will give out Fine Flour and appear more often. Additional visitors may visit your Garden. Higher rarity Visitors are more likely to show up & will provide 10% more Copper."
+      },
+      {
+        "name": "Pest Eradicator",
+        "description": "The duration of Pesthunter Phillip's ☘ Farming Fortune bonus is now 60m. Decreases the spawn cooldown of Pests by 20%."
+      }
+    ]
+  },
+  "Scorpius": {
+    "times_elected": 13,
+    "new_perk_chance": "N/A",
+    "average_perks": 1.69,
+    "average_vote_percentage": 95.44,
+    "average_vote_count": 942437,
+    "top_vote_percentage": 98.40,
+    "top_election_year": 336,
+    "top_vote_count": 1306734
+  },
+  "Jerry": {
+    "times_elected": 13,
+    "new_perk_chance": "N/A",
+    "average_perks": 2.54,
+    "average_vote_percentage": 94.19,
+    "average_vote_count": 860454,
+    "top_vote_percentage": 97.12,
+    "top_election_year": 400,
+    "top_vote_count": 1294232
+  },
+  "Derpy": {
+    "name": "Derpy",
+    "times_elected": 12,
+    "new_perk_chance": "N/A",
+    "average_perks": 3.33,
+    "average_vote_percentage": 91.75,
+    "average_vote_count": 854084,
+    "top_vote_percentage": 95.78,
+    "top_election_year": 368,
+    "top_vote_count": 1161501
+  },
+  "Diaz" : {
+    "times_elected": 10,
+    "new_perk_chance": 8.70,
+    "average_perks": 2.40,
+    "average_vote_percentage": 53.48,
+    "average_vote_count": 552269,
+    "top_vote_percentage": 76.90,
+    "top_election_year": 358,
+    "top_vote_count": 967089,
+    "perks_map": [
+      {
+        "name": "Long Term Investment",
+        "description": "The elected Minister will appear in the next Election with all of their available perks."
+      },
+      {
+        "name": "Volume Trading",
+        "description": "Double the item quantity from Shen's Auction, Shen's Special, and Rift Shen's on the year Diaz is elected. Two additional Shen's Special auctions will be available for the duration of Diaz being elected as Mayor."
+      },
+      {
+        "name": "Stock Exchange",
+        "description": "Participate in the Stonks Auction for a chance to win Stock of Stonks! Trade them for extravagant items at the ⏣ Trade Center."
+      },
+      {
+        "name": "Shopping Spree",
+        "description": "Increase daily NPC buy limits by 10x."
+      }
+    ]
+  }
+}

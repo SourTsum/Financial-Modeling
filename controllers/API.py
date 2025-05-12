@@ -1,13 +1,18 @@
 from controllers import FILE
 import requests
 
+
 def get_current_market_data():
+    """
+    requests the skyblock/bazaar API
+    """
     market_data = requests.get("https://api.hypixel.net/v2/skyblock/bazaar")
-    FILE.write_json(market_data.json(),'./output/market_data.json')
+    return market_data.json()
+
 
 def get_cached_market_data():
     try:
-        return FILE.get_json('./output/market_data.json')
+        return FILE.get_json('./output/original_market_data.json')
     except Exception as e:
         with open("./output/logs.txt", "w") as logging:
             logging.write(str(e))
