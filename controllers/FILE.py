@@ -2,7 +2,7 @@ import json
 import os
 import zipfile
 from pathlib import Path
-
+import DISCORD
 
 def write_json(response, file, mode):
     try:
@@ -13,6 +13,7 @@ def write_json(response, file, mode):
             json.dump(response, open_file, ensure_ascii=False, indent=4)
     except Exception as e:
         log_error(e)
+        DISCORD.send_error("[FILE Controller]: {file} file doesn't exist OR can't write to file...")
         print(f"[FILE Controller]: {file} file doesn't exist OR can't write to file...")
 
 
@@ -25,6 +26,7 @@ def write_text(response, file, mode):
             open_file.write(response)
     except Exception as e:
         log_error(e)
+        DISCORD.send_error("[FILE Controller]: {file} file doesn't exist OR can't write to file...")
         print(f"[FILE Controller]: {file} file doesn't exist OR can't write to file...")
 
 
@@ -35,6 +37,7 @@ def get_json(file):
         with file_path.open("r", encoding="utf-8") as open_file:
             return json.load(open_file)
     except Exception as e:
+        DISCORD.send_error(str(e))
         log_error(e)
         return None
 
@@ -46,6 +49,7 @@ def compress(file_path):
 
     except Exception as e:
         log_error(e)
+        DISCORD.send_error(str(f"[FILE Controller]: {file_path}.json file couldn't be compressed..."))
         print(f"[FILE Controller]: {file_path}.json file couldn't be compressed...")
 
 

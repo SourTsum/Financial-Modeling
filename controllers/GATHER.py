@@ -16,7 +16,7 @@ def start():
     print(f"   |Last Ran:  {start_stats["last_ran"]}")
     print(f"   |Seconds / Call:  {start_stats['seconds_per_call']}\n")
 
-    DISCORD.send_gather_stat(current_datetime, start_stats)
+    DISCORD.send_gather_start(current_datetime, start_stats)
 
     start_stats["last_ran"] = current_datetime
     FILE.write_json(start_stats,"../data/gather_stats.json","w")
@@ -32,7 +32,7 @@ def start():
         print(f"   |Data Last Updated:  {market_data_time}\n")
 
         if last_updated  != market_data["lastUpdated"]:
-
+            last_updated = market_data_time
             year, month, day = market_data_time.isocalendar()
             folder_path = f"output/{year}/{month}/{day}"
 
@@ -42,6 +42,11 @@ def start():
             write_time = int(time.time())
             UTILS.write_remove_enchants(market_data,f"{folder_path}/{write_time}.json")
             FILE.compress(f"{folder_path}/{write_time}")
+
+            print("[GATHER]:")
+            print(f"   |Market Data logged at:  {write_time}\n")
+
+            DISCORD.send_gather_stats(datetime.fromtimestamp(write_time / 1000),last_updated)
 
 
 
