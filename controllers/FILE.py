@@ -39,7 +39,6 @@ def get_json(file):
         return None
 
 def compress(file_path):
-    print(f"[FILE Controller]: {file_path}")
     try:
         with zipfile.ZipFile(file_path + ".zip", "w", compression=zipfile.ZIP_DEFLATED) as zip_file:
             zip_file.write(file_path + ".json", arcname=os.path.basename(file_path) + ".json")

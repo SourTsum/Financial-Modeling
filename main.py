@@ -1,3 +1,4 @@
 from controllers import GATHER
+from controllers import DISCORD
 
-GATHER.start()
+DISCORD.send_error(IOError("Something went wrong"))
