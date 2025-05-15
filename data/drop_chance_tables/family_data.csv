@@ -1,270 +1,270 @@
-Mob,Bracket,Tier,Kills to Max,Description
-Bat,1,5,200,Can be found hanging around.
-Creeper,1,5,200,Look out for their hiss!
-Enderman,1,5,200,Don't like making eye contact.
-Skeleton,1,5,200,Just a normal skelly.
-Slime,1,5,200,World's loudest creatures.
-Spider,1,5,200,Likes to climb.
-Witch,1,5,200,Masters of alchemy.
-Zombie,1,5,200,Brains.
-Crypt Ghoul,1,15,"40,000","Long buried, newly unburied."
-Golden Ghoul,3,15,"4,000",A ghoul that fell into molten gold.
-Graveyard Zombie,1,5,200,Brains.
-Old Wolf,3,15,"4,000",Wolves older than the island itself.
-Wolf,1,15,"40,000",Roaming the remains of a Castle far from its best days.
-Zombie Villager,4,15,"1,000",The real enemy isn't the dead - it's the living.
-Chicken,1,5,200,Wishes it could fly.
-Cow,1,5,200,Natural predator of grass.
-Mushroom Cow,1,5,200,Technically a health code violation
-Pig,1,5,200,Smells like Bacon.
-Rabbit,1,5,200,Never stops hopping.
-Sheep,1,5,200,Beep beep I'm a sheep.
-Beetle,6,15,250,A particularly gross pest.
-Cricket,6,15,250,"Usually just a hop, skip, and a jump away."
-Field Mouse,7,15,100,A shy little fellow!
-Earthworm,6,15,250,"Big, scary, and pink."
-Fly,6,15,250,"A common Garden pest, known for its big eyes."
-Locust,6,15,250,"Pretty loud, and pretty annoying."
-Mite,6,15,250,Try and you just mite.
-Mosquito,6,15,250,One of nature's most useless creatures.
-Moth,6,15,250,Fluttering around a Garden near you.
-Rat,6,15,250,"Quick, yet nasty."
-Slug,6,15,250,"Methodical in movement, ineffective in survival."
-Arachne,7,20,500,The strongest spider in the den.
-Arachne's Brood,4,15,"1,000",Brood of Arachne.
-Arachne's Keeper,5,15,400,Keeper of Arachne.
-Broodmother,5,15,400,The Broodmother to end all Broodmothers.
-Dasher Spider,2,15,"10,000","Dashingly striking, watch for this spider's long jumps!"
-Gravel Skeleton,3,15,"4,000",These Skeletons just never stay dead.
-Rain Slime,4,15,"1,000",These Slimes enjoy rain...and jumping to their deaths.
-Toxic Rain Slime,4,15,"1,000",These Slimes enjoy rain...and jumping to their deaths.
-Silverfish,2,15,"10,000","Though weak alone, they find strength in numbers."
-Spider Jockey,3,15,"4,000",The Skeletons have been controlling Spiders since the dawn of minekind.
-Splitter Spider,2,15,"10,000","If you think you've killed this spider, think again."
-Voracious Spider,2,15,"10,000",This spider is quite voracious.
-Weaver Spider,2,15,"10,000",Spins a web of lies.
-Young Dragon,5,20,"1,000","Inside the Dragon's Den, there is no escape from the fury of the beasts."
-Old Dragon,5,20,"1,000","Inside the Dragon's Den, there is no escape from the fury of the beasts."
-Strong Dragon,5,20,"1,000","Inside the Dragon's Den, there is no escape from the fury of the beasts."
-Wise Dragon,5,20,"1,000","Inside the Dragon's Den, there is no escape from the fury of the beasts."
-Unstable Dragon,5,20,"1,000","Inside the Dragon's Den, there is no escape from the fury of the beasts."
-Protector Dragon,5,20,"1,000","Inside the Dragon's Den, there is no escape from the fury of the beasts."
-Superior Dragon,5,20,"1,000","Inside the Dragon's Den, there is no escape from the fury of the beasts."
-Enderman,4,25,"25,000",Not your mother's endermen.
-Endermite,5,25,"10,000",Hidden in the stone of The End.
-Nest Endermite,5,25,"10,000",Hidden in the stone of The End.
-Endstone Protector,7,20,500,Risen from the debris of Endstone.
-Obsidian Defender,5,25,"10,000",Forged from the forces of hot and cold.
-Voidling Extremist,3,15,"4,000",The top lieutenants of the void heraldry.
-Voidling Fanatic,4,25,"25,000",A step beyond zealotry.
-Watcher,5,25,"10,000",Always watching.
-Zealot,4,25,"25,000",Unwavering in their devotion to the Dragon.
-Special Zealot,4,25,"25,000",Unwavering in their devotion to the Dragon.
-Zealot Bruiser,4,25,"25,000",Unwavering in their devotion to the Dragon.
-Ashfang,7,20,500,"They also call themselves ""The Twins""."
-Barbarian Duke X,7,20,500,He's got anger issues.
-Bladesoul,7,20,500,Used to be a prince.
-Blaze,4,20,"3,000",They started the fire.
-Bezal,4,20,"3,000",They started the fire.
-Mutated Blaze,4,20,"3,000",They started the fire.
-Flaming Spider,3,20,"10,000",Can't stop burning.
-Flare,1,20,"100,000","Oh baby, a triple!"
-Ghast,4,20,"3,000",Their screams can be heard from miles away.
-Dive Ghast,4,20,"3,000",Their screams can be heard from miles away.
-Kada Knight,4,20,"3,000",A short walk for you is a long walk for them.
-Mage Outlaw,7,20,500,Ate too much Sulphur.
-Magma Boss,7,20,500,"Like a Magma Cube, but bigger."
-Magma Cube,3,20,"10,000","Like Slime, but hotter."
-Pack Magma Cube,3,20,"10,000","Like Slime, but hotter."
-Magma Cube Rider,4,20,"3,000",Relatively docile...until you push them.
-Matcho,5,15,400,Has quite an explosive temper.
-Millennia-Aged Blaze,3,15,"4,000",Blazes rarely live past the age of 900.
-Mushroom Bull,3,20,"10,000",Born with digestive problems.
-Smoldering Blaze,2,20,"25,000",It's on fire. But more than usual.
-Hellwisp,5,20,"1,000",Offspring of The Matriarch.
-Vanquisher,5,20,"1,000",The embodiment of vengeful souls that come for revenge.
-Wither Skeleton,4,20,"3,000",Keepers of the Crimson Isle.
-Wither Spectre,3,20,"10,000",Hasn't seen light in ages.
-Emerald Slime,1,10,"3,000",It is said that these slimes absorb emeralds to grow larger.
-Lapis Zombie,1,10,"3,000","These zombies adapted to their environment, using the lapis around them as a defense mechanism."
-Miner Skeleton,1,10,"3,000",These skeletons have crafted gear from the diamonds around them - resulting in a look both fashionable and protective.
-Miner Zombie,1,10,"3,000","Like their skeleton counterparts, these zombies have bedazzled themselves throughout the years."
-Redstone Pigman,1,10,"3,000",These pigmen will defend their redstone to the death.
-Sneaky Creeper,3,10,300,They be creepin'.
-Diamond Goblin,7,15,100,"Does nothing but steal, even from its fellow goblins."
-Ghost,3,25,"100,000",It is hard to find that which you cannot see.
-Glacite Bowman,4,15,"1,000","Unable to see, it hunts by sound"
-Glacite Caver,4,15,"1,000",Dug too deep and never looked back.
-Glacite Mage,4,15,"1,000",Unknowing and unpredictable in its destruction.
-Glacite Mutt,4,15,"1,000","Remarkably loyal, even in death."
-Glacite Walker,2,15,"10,000",Guardians of the Gate to the icy caves below.
-Goblin,2,20,"25,000",The Goblins have plagued the Dwarven Mines for centuries.
-Fireslinger,2,20,"25,000",The Goblins have plagued the Dwarven Mines for centuries.
-Creeperlobber,2,20,"25,000",The Goblins have plagued the Dwarven Mines for centuries.
-Knifethrower,2,20,"25,000",The Goblins have plagued the Dwarven Mines for centuries.
-Goblin Flamethrower,2,20,"25,000",The Goblins have plagued the Dwarven Mines for centuries.
-Murderlover,2,20,"25,000",The Goblins have plagued the Dwarven Mines for centuries.
-Weakling,4,15,"1,000","If it moves, it gets smashed."
-Fireslinger,4,15,"1,000","If it moves, it gets smashed."
-Creeperlobber,4,15,"1,000","If it moves, it gets smashed."
-Creeper,4,15,"1,000","If it moves, it gets smashed."
-Pitfighter,4,15,"1,000","If it moves, it gets smashed."
-Murderlover,4,15,"1,000","If it moves, it gets smashed."
-Superprotectron,4,15,"1,000","If it moves, it gets smashed."
-Golden Goblin,5,15,400,"Take the things you love in life, and run with them."
-Powder Ghast,1,5,200,Powder and coal replaces ash and soot!
-Star Sentry,4,15,"1,000",Defenders of the Fallen Star.
-Treasure Hoarder,4,15,"1,000",The real treasure was the gold we found along the way.
-Automaton,2,15,"10,000",Ancient robots which protect the lands of the Precursor from whomever dares to trespass.
-Bal,6,15,250,Scourge of Khazad-dûm.
-Butterfly,4,15,"1,000",Beautiful critters that roam around harmlessly in Fairy regions.
-Grunt,3,15,"4,000",Team Treasurite is up to no good. Prepare for trouble!
-Executive Viper,3,15,"4,000",Team Treasurite is up to no good. Prepare for trouble!
-Executive Wendy,3,15,"4,000",Team Treasurite is up to no good. Prepare for trouble!
-Executive Sebastian,3,15,"4,000",Team Treasurite is up to no good. Prepare for trouble!
-Boss Corleone,7,15,100,The mastermind behind Team Treasurite.
-Key Guardian,6,15,250,Works as a locksmith.
-Sludge,2,15,"10,000",They say that the juice of these slimes has valuable magical properties.
-Thyst,3,15,"4,000",These infectious worms nourish themselves from Amethyst veins.
-Worm,5,15,400,Stone worms can and will eat anything.
-Scatha,5,15,400,Stone worms can and will eat anything.
-Yog,3,15,"4,000","Born in the depths, risen from magma."
-Howling Spirit,2,15,"10,000",Howling at the moon.
-Pack Spirit,2,15,"10,000","Spirits of long-dead wolves, still prowling the caves for prey."
-Soul of the Alpha,4,15,"1,000",Ghastly leader of the pack.
-Crazy Witch,2,10,750,This witch is brewing up trouble.
-Headless Horseman,7,20,500,Some say he lost his mind long before he lost his head.
-Phantom Spirit,2,10,750,Possess the supernatural ability to...possess...you.
-Scary Jerry,2,10,750,He's very scary.
-Trick or Treater,2,10,750,It's always a trick.
-Wither Gourd,2,10,750,Who throws a pumpkin? Honestly!
-Wraith,2,10,750,Haunting SkyBlock islands everywhere.
-Angry Archaeologist,7,25,"3,000",Angered by what he's found below.
-Bat,4,15,"1,000",Likes to keep to themselves.
-Cellar Spider,4,15,"1,000",Creepy crawler.
-Crypt Dreadlord,4,25,"25,000",Trained in the dark art of wither magic.
-Crypt Lurker,4,25,"25,000",Lurking in the shadows.
-Crypt Souleater,4,25,"25,000",A soul a day keeps the doctor away.
-Fels,5,25,"10,000",Hide and Seek Champion.
-Golem,4,15,"1,000","Prefers to sleep in, grumpy if disturbed."
-King Midas,6,20,750,He loves gold.
-Lonely Spider,4,25,"25,000",So lonely.
-Lost Adventurer,7,25,"3,000",Long lost to the depths of the Catacombs.
-Mimic,4,15,"1,000","Classic RPG trope, in block form."
-Scared Skeleton,3,15,"4,000",Scared of its own shadow.
-Shadow Assassin,7,25,"3,000","Silent, but deadly."
-Skeleton Grunt,3,15,"4,000",Just more grunts in the platoon.
-Skeleton Lord,5,20,"1,000","Despite the lack of organs, still managed to be promoted."
-Skeleton Master,4,25,"25,000",Leader of the Catacombs' skeleton army.
-Skeleton Soldier,1,15,"40,000",Defenders of the Catacombs.
-Skeletor,5,25,"10,000",I am Skeletor.
-Sniper,3,15,"4,000",Said to have sniped adventurers from floors away.
-Super Archer,5,25,"10,000","Bouncy, yet dangerous."
-Super Tank Zombie,4,25,"25,000",Heftiest zombie.
-Tank Zombie,3,15,"4,000",Hefty zombie.
-Terracotta,1,15,"40,000",Stained Hardened Clay.
-Undead,2,15,"10,000",The Watcher's personal henchmen.
-Undead Skeleton,4,25,"25,000",Redundant name.
-Wither Guard,5,25,"10,000","Never stopped anyone from entering the factory, but is trying his best."
-Wither Husk,5,25,"10,000",A shell of their former self.
-Wither Miner,4,25,"25,000",Kept in servitude for breaking blocks around the factory.
-Withermancer,4,25,"25,000",Learned their sorcery from the most vicious of teachers.
-Zombie Commander,4,20,"3,000",Leader of the Undead.
-Zombie Grunt,3,15,"4,000",Just more grunts in the platoon.
-Zombie Knight,5,25,"10,000",Knighted by Necron himself.
-Zombie Lord,5,20,"1,000",Commander among commanders.
-Zombie Soldier,1,15,"40,000",Defenders of the Catacombs.
-Abyssal Miner,6,15,250,Didn't escape before the cave-in.
-Agarimoo,3,15,"4,000",Galactose-based heterogenous polysaccharide derived from rift algae.
-Blue Ringed Octopus,5,15,400,Quite the escape artist.
-Carrot King,5,15,400,Has a vicious streak a mile wide.
-Catfish,4,15,"1,000",Looked different in the pictures.
-Deep Sea Protector,4,15,"1,000",Nobody knows what it protects.
-Frog Man,4,20,"3,000","You'd think it'd make a normal frog sound, but it actually just says 'Ribbit' out loud."
-Guardian Defender,4,15,"1,000",Defends the sea.
-Mithril Grubber,3,10,300,I die a little every time I take out a Grubber...
-Night Squid,4,15,"1,000",Just a lowly squid...at night!
-Oasis Rabbit,3,10,300,Loyal subject of the Carrot King.
-Oasis Sheep,3,10,300,A test subject to see if a sheep shrinks when it dries.
-Poisoned Water Worm,4,15,"1,000",Somebody's poisoned the waterhole!
-Rider of the Deep,3,15,"4,000",The chicken is the one in charge.
-Sea Archer,3,15,"4,000","Though a gifted archer, has a love for fistfights."
-Sea Guardian,3,15,"4,000",Guards the sea.
-Sea Leech,4,15,"1,000","See, a leech!"
-Sea Walker,3,15,"4,000",Why swim when you can simply walk?
-Sea Witch,3,15,"4,000",She'll turn you into a newt!
-Snapping Turtle,4,15,"1,000",Doesn't look like its very good at it's job.
-Squid,2,15,"10,000",Just a lowly squid.
-The Sea Emperor,7,15,100,Emperor of the seven seas.
-Water Hydra,5,15,400,"Unlike a regular hydra, this one grows another body as well!"
-Water Worm,4,15,"1,000",Hasn't been poisoned...yet.
-Wiki Tiki,7,15,100,"An ancient fragment of the Kalhuiki tribe, lost from long before they went underground."
-Fiery Scuttler,5,15,400,"Small guy, big attitude."
-Fire Eel,4,15,"1,000",Tastes like battery acid.
-Fireproof Witch,4,15,"1,000",Her brewing sessions have seen much success as of late.
-Flaming Worm,3,15,"4,000","Like a regular worm, but on fire."
-Fried Chicken,4,20,"3,000","Is it ready to eat, then?"
-Lava Blaze,4,15,"1,000",Is it made of lava or does it just live in it?
-Lava Flame,4,15,"1,000",Incarnation of pure heat.
-Lava Leech,3,15,"4,000",It's hard to love-a leech.
-Lava Pigman,4,15,"1,000","Normally, dunking pork in lava causes it to get charred. But not this one!"
-Lord Jawbus,7,15,100,The mighty magma lord.
-Magma Slug,2,15,"10,000",Moves. Very. Slowly.
-Moogma,3,15,"4,000",Produces 100% fresh magma on a daily basis!
-Plhlegblast,7,5,7,"Hard to spell, even harder to find."
-Pyroclastic Worm,4,15,"1,000",Travels up to 10 miles downhill during eruptions.
-Ragnarok,7,15,100,"Once tried to bring about the end of the world, until he was betrayed."
-Taurus,4,15,"1,000",Could never date a Pisces.
-Thunder,5,15,400,This is what happens on a bad forecast.
-Grim Reaper,7,15,100,An old friend.
-Nightmare,4,15,"1,000",The end is neigh.
-Phantom Fisher,6,15,250,Who is fishing who?
-Scarecrow,3,15,"4,000",Also found at a yellow brick road.
-Werewolf,4,15,"1,000",A very careful and aware wolf.
-Blue Shark,4,15,"1,000",Camouflages well with his environment.
-Great White Shark,5,15,400,Most famous of all sharks.
-Nurse Shark,3,15,"4,000",Still studying to become a doctor.
-Tiger Shark,4,15,"1,000","Like a regular tiger, but swims."
-Frosty,3,15,"4,000",Was a jolly happy soul.
-Frozen Steve,3,15,"4,000","""Fell"" into Jerry's Pond."
-Grinch,6,15,250,How the Grinch Stole Jerry Season.
-Nutcracker,5,15,400,A toy brought to life.
-Reindrake,7,15,100,A Reindrake forms from the depths.
-Yeti,6,15,250,The cooler cousin of Bigfoot.
-Alligator,5,15,400,Just because he has thick skin doesn't mean he doesn't get sad sometimes.
-Banshee,4,15,"1,000","Scream, scream, let it all out!"
-Bayou Sludge,4,15,"1,000",Swampy swampy swamp.
-Dumpster Diver,4,15,"1,000",Everybody was dumpster divin'!
-Titanoboa,7,15,100,Yet another great reason to keep away from the Backwater Bayou.
-Trash Gobbler,4,15,"1,000",Yummers!
-Stalwart Gaia Construct,4,20,"3,000",A construct truly connected to the Earth.
-Exalted Gaia Construct,4,20,"3,000",A construct truly connected to the Earth.
-Stalwart Minos Champion,5,20,"1,000",The champion of King Minos.
-Exalted Minos Champion,5,20,"1,000",The champion of King Minos.
-Minos Hunter,5,20,"1,000",The hunter becomes the hunted.
-Stalwart Minos Hunter,5,20,"1,000",The hunter becomes the hunted.
-Exalted Minos Hunter,5,20,"1,000",The hunter becomes the hunted.
-Exalted Minos Inquisitor,7,20,500,The ultimate guardian of Minos' Literature.
-Minotaur,4,20,"3,000",Buys his axes in bulk.
-Stalwart Minotaur,4,20,"3,000",Buys his axes in bulk.
-Exalted Minotaur,4,20,"3,000",Buys his axes in bulk.
-Siamese Lynx,4,20,"3,000",Not separated at birth.
-Stalwart Siamese Lynx,4,20,"3,000",Not separated at birth.
-Exalted Siamese Lynx,4,20,"3,000",Not separated at birth.
-Blue Jerry,5,10,30,Jerry?
-Golden Jerry,7,10,20,Jerry?!
-Green Jerry,4,10,75,Jerry.
-Purple Jerry,6,10,25,Jerry!
-Blazing Golem,3,10,300,Trained by Lord Jawbus to serve Kuudra.
-Blight,3,20,"10,000",A blight upon the lands of SkyBlock.
-Dropship,3,10,300,"Contrary to popular belief, does not actually drop ships."
-Explosive Imp,4,20,"3,000",Has an explosive temper.
-Inferno Magma Cube,3,20,"10,000","So hot, it has to be measured in Kelvin."
-Kuudra Berserker,3,20,"10,000",A single look at Kuudra drove him into a frenzy.
-Kuudra Follower,2,20,"25,000",Believes in the return of Kuudra.
-Kuudra Knocker,3,20,"10,000",He is the one who knocks.
-Kuudra Landmine,3,20,"10,000",Stepping on them seems to cause no harm!
-Kuudra Slasher,5,10,30,Hash-slinging.
-Magma Follower,5,10,30,"Follows magma, wherever it flows."
-Wandering Blaze,4,20,"3,000","Lacks the legs to actually wander around, flies instead."
-Wither Sentry,4,10,75,Sentry down!
+Mob,Bracket,Tier,Kills to Max
+Bat,1,5,200
+Creeper,1,5,200
+Enderman,1,5,200
+Skeleton,1,5,200
+Slime,1,5,200
+Spider,1,5,200
+Witch,1,5,200
+Zombie,1,5,200
+Crypt Ghoul,1,15,40000
+Golden Ghoul,3,15,4000
+Graveyard Zombie,1,5,200
+Old Wolf,3,15,4000
+Wolf,1,15,40000
+Zombie Villager,4,15,1000
+Chicken,1,5,200
+Cow,1,5,200
+Mushroom Cow,1,5,200
+Pig,1,5,200
+Rabbit,1,5,200
+Sheep,1,5,200
+Beetle,6,15,250
+Cricket,6,15,250
+Field Mouse,7,15,100
+Earthworm,6,15,250
+Fly,6,15,250
+Locust,6,15,250
+Mite,6,15,250
+Mosquito,6,15,250
+Moth,6,15,250
+Rat,6,15,250
+Slug,6,15,250
+Arachne,7,20,500
+Arachne's Brood,4,15,1000
+Arachne's Keeper,5,15,400
+Broodmother,5,15,400
+Dasher Spider,2,15,10000
+Gravel Skeleton,3,15,4000
+Rain Slime,4,15,1000
+Toxic Rain Slime,4,15,1000
+Silverfish,2,15,10000
+Spider Jockey,3,15,4000
+Splitter Spider,2,15,10000
+Voracious Spider,2,15,10000
+Weaver Spider,2,15,10000
+Young Dragon,5,20,1000
+Old Dragon,5,20,1000
+Strong Dragon,5,20,1000
+Wise Dragon,5,20,1000
+Unstable Dragon,5,20,1000
+Protector Dragon,5,20,1000
+Superior Dragon,5,20,1000
+Enderman,4,25,25000
+Endermite,5,25,10000
+Nest Endermite,5,25,10000
+Endstone Protector,7,20,500
+Obsidian Defender,5,25,10000
+Voidling Extremist,3,15,4000
+Voidling Fanatic,4,25,25000
+Watcher,5,25,10000
+Zealot,4,25,25000
+Special Zealot,4,25,25000
+Zealot Bruiser,4,25,25000
+Ashfang,7,20,500
+Barbarian Duke X,7,20,500
+Bladesoul,7,20,500
+Blaze,4,20,3000
+Bezal,4,20,3000
+Mutated Blaze,4,20,3000
+Flaming Spider,3,20,10000
+Flare,1,20,100000
+Ghast,4,20,3000
+Dive Ghast,4,20,3000
+Kada Knight,4,20,3000
+Mage Outlaw,7,20,500
+Magma Boss,7,20,500
+Magma Cube,3,20,10000
+Pack Magma Cube,3,20,10000
+Magma Cube Rider,4,20,3000
+Matcho,5,15,400
+Millennia-Aged Blaze,3,15,4000
+Mushroom Bull,3,20,10000
+Smoldering Blaze,2,20,25000
+Hellwisp,5,20,1000
+Vanquisher,5,20,1000
+Wither Skeleton,4,20,3000
+Wither Spectre,3,20,10000
+Emerald Slime,1,10,3000
+Lapis Zombie,1,10,3000
+Miner Skeleton,1,10,3000
+Miner Zombie,1,10,3000
+Redstone Pigman,1,10,3000
+Sneaky Creeper,3,10,300
+Diamond Goblin,7,15,100
+Ghost,3,25,100000
+Glacite Bowman,4,15,1000
+Glacite Caver,4,15,1000
+Glacite Mage,4,15,1000
+Glacite Mutt,4,15,1000
+Glacite Walker,2,15,10000
+Goblin,2,20,25000
+Fireslinger,2,20,25000
+Creeperlobber,2,20,25000
+Knifethrower,2,20,25000
+Goblin Flamethrower,2,20,25000
+Murderlover,2,20,25000
+Weakling,4,15,1000
+Fireslinger,4,15,1000
+Creeperlobber,4,15,1000
+Creeper,4,15,1000
+Pitfighter,4,15,1000
+Murderlover,4,15,1000
+Superprotectron,4,15,1000
+Golden Goblin,5,15,400
+Powder Ghast,1,5,200
+Star Sentry,4,15,1000
+Treasure Hoarder,4,15,1000
+Automaton,2,15,10000
+Bal,6,15,250
+Butterfly,4,15,1000
+Grunt,3,15,4000
+Executive Viper,3,15,4000
+Executive Wendy,3,15,4000
+Executive Sebastian,3,15,4000
+Boss Corleone,7,15,100
+Key Guardian,6,15,250
+Sludge,2,15,10000
+Thyst,3,15,4000
+Worm,5,15,400
+Scatha,5,15,400
+Yog,3,15,4000
+Howling Spirit,2,15,10000
+Pack Spirit,2,15,10000
+Soul of the Alpha,4,15,1000
+Crazy Witch,2,10,750
+Headless Horseman,7,20,500
+Phantom Spirit,2,10,750
+Scary Jerry,2,10,750
+Trick or Treater,2,10,750
+Wither Gourd,2,10,750
+Wraith,2,10,750
+Angry Archaeologist,7,25,3000
+Bat,4,15,1000
+Cellar Spider,4,15,1000
+Crypt Dreadlord,4,25,25000
+Crypt Lurker,4,25,25000
+Crypt Souleater,4,25,25000
+Fels,5,25,10000
+Golem,4,15,1000
+King Midas,6,20,750
+Lonely Spider,4,25,25000
+Lost Adventurer,7,25,3000
+Mimic,4,15,1000
+Scared Skeleton,3,15,4000
+Shadow Assassin,7,25,3000
+Skeleton Grunt,3,15,4000
+Skeleton Lord,5,20,1000
+Skeleton Master,4,25,25000
+Skeleton Soldier,1,15,40000
+Skeletor,5,25,10000
+Sniper,3,15,4000
+Super Archer,5,25,10000
+Super Tank Zombie,4,25,25000
+Tank Zombie,3,15,4000
+Terracotta,1,15,40000
+Undead,2,15,10000
+Undead Skeleton,4,25,25000
+Wither Guard,5,25,10000
+Wither Husk,5,25,10000
+Wither Miner,4,25,25000
+Withermancer,4,25,25000
+Zombie Commander,4,20,3000
+Zombie Grunt,3,15,4000
+Zombie Knight,5,25,10000
+Zombie Lord,5,20,1000
+Zombie Soldier,1,15,40000
+Abyssal Miner,6,15,250
+Agarimoo,3,15,4000
+Blue Ringed Octopus,5,15,400
+Carrot King,5,15,400
+Catfish,4,15,1000
+Deep Sea Protector,4,15,1000
+Frog Man,4,20,3000
+Guardian Defender,4,15,1000
+Mithril Grubber,3,10,300
+Night Squid,4,15,1000
+Oasis Rabbit,3,10,300
+Oasis Sheep,3,10,300
+Poisoned Water Worm,4,15,1000
+Rider of the Deep,3,15,4000
+Sea Archer,3,15,4000
+Sea Guardian,3,15,4000
+Sea Leech,4,15,1000
+Sea Walker,3,15,4000
+Sea Witch,3,15,4000
+Snapping Turtle,4,15,1000
+Squid,2,15,10000
+The Sea Emperor,7,15,100
+Water Hydra,5,15,400
+Water Worm,4,15,1000
+Wiki Tiki,7,15,100
+Fiery Scuttler,5,15,400
+Fire Eel,4,15,1000
+Fireproof Witch,4,15,1000
+Flaming Worm,3,15,4000
+Fried Chicken,4,20,3000
+Lava Blaze,4,15,1000
+Lava Flame,4,15,1000
+Lava Leech,3,15,4000
+Lava Pigman,4,15,1000
+Lord Jawbus,7,15,100
+Magma Slug,2,15,10000
+Moogma,3,15,4000
+Plhlegblast,7,5,7
+Pyroclastic Worm,4,15,1000
+Ragnarok,7,15,100
+Taurus,4,15,1000
+Thunder,5,15,400
+Grim Reaper,7,15,100
+Nightmare,4,15,1000
+Phantom Fisher,6,15,250
+Scarecrow,3,15,4000
+Werewolf,4,15,1000
+Blue Shark,4,15,1000
+Great White Shark,5,15,400
+Nurse Shark,3,15,4000
+Tiger Shark,4,15,1000
+Frosty,3,15,4000
+Frozen Steve,3,15,4000
+Grinch,6,15,250
+Nutcracker,5,15,400
+Reindrake,7,15,100
+Yeti,6,15,250
+Alligator,5,15,400
+Banshee,4,15,1000
+Bayou Sludge,4,15,1000
+Dumpster Diver,4,15,1000
+Titanoboa,7,15,100
+Trash Gobbler,4,15,1000
+Stalwart Gaia Construct,4,20,3000
+Exalted Gaia Construct,4,20,3000
+Stalwart Minos Champion,5,20,1000
+Exalted Minos Champion,5,20,1000
+Minos Hunter,5,20,1000
+Stalwart Minos Hunter,5,20,1000
+Exalted Minos Hunter,5,20,1000
+Exalted Minos Inquisitor,7,20,500
+Minotaur,4,20,3000
+Stalwart Minotaur,4,20,3000
+Exalted Minotaur,4,20,3000
+Siamese Lynx,4,20,3000
+Stalwart Siamese Lynx,4,20,3000
+Exalted Siamese Lynx,4,20,3000
+Blue Jerry,5,10,30
+Golden Jerry,7,10,20
+Green Jerry,4,10,75
+Purple Jerry,6,10,25
+Blazing Golem,3,10,300
+Blight,3,20,10000
+Dropship,3,10,300
+Explosive Imp,4,20,3000
+Inferno Magma Cube,3,20,10000
+Kuudra Berserker,3,20,10000
+Kuudra Follower,2,20,25000
+Kuudra Knocker,3,20,10000
+Kuudra Landmine,3,20,10000
+Kuudra Slasher,5,10,30
+Magma Follower,5,10,30
+Wandering Blaze,4,20,3000
+Wither Sentry,4,10,75

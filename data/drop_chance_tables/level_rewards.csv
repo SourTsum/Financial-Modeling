@@ -1,26 +1,26 @@
-Tier,MF,STR,Coins,XP Orbs
-1,2,2,+2%,+50% for +1 XP Orb
-2,4,4,+4%,+100% for +1 XP Orb
-3,6,6,+6%,+100% for +1 XP Orb and +50% for +2 XP Orb
-4,8,8,+8%,+100% for +2 XP Orb
-5,10,10,+10%,+100% for +2 XP Orb and +50% for +3 XP Orb
-6,13,13,+12%,+100% for +3 XP Orb
-7,16,16,+14%,+100% for +3 XP Orb and +50% for +4 XP Orb
-8,19,19,+16%,+100% for +4 XP Orb
-9,22,22,+18%,+100% for +4 XP Orb and +50% for +5 XP Orb
-10,25,25,+20%,+100% for +5 XP Orb
-11,29,29,+22%,+100% for +5 XP Orb and +50% for +6 XP Orb
-12,33,33,+24%,+100% for +6 XP Orb
-13,37,37,+26%,+100% for +6 XP Orb and +50% for +7 XP Orb
-14,41,41,+28%,+100% for +7 XP Orb
-15,45,45,+30%,+100% for +7 XP Orb and +50% for +8 XP Orb
-16,50,50,+32%,+100% for +8 XP Orb
-17,55,55,+34%,+100% for +8 XP Orb and +50% for +9 XP Orb
-18,60,60,+36%,+100% for +9 XP Orb
-19,65,65,+38%,+100% for +9 XP Orb and +50% for +10 XP Orb
-20,70,70,+40%,+100% for +10 XP Orb
-21,76,76,+42%,+100% for +10 XP Orb and +50% for +11 XP Orb
-22,82,82,+44%,+100% for +11 XP Orb
-23,88,88,+46%,+100% for +11 XP Orb and +50% for +12 XP Orb
-24,94,94,+48%,+100% for +12 XP Orb
-25,100,100,+50%,+100% for +12 XP Orb and +50% for +13 XP Orb
+Tier,MF
+1,2
+2,4
+3,6
+4,8
+5,10
+6,13
+7,16
+8,19
+9,22
+10,25
+11,29
+12,33
+13,37
+14,41
+15,45
+16,50
+17,55
+18,60
+19,65
+20,70
+21,76
+22,82
+23,88
+24,94
+25,100
