@@ -1,0 +1,63 @@
+Drop,Mob,Chance,Location,Type
+Poisonous Potato,"['Zombie', 'Graveyard Zombie', 'Zombie Villager']","['2%', '2%', '2%']","['Private Island', 'Graveyard', 'Graveyard']",Item
+Potato,"['Zombie', 'Graveyard Zombie']","['1%', '1%']","['Private Island', 'Graveyard']",Item
+Carrot,"['Zombie', 'Graveyard Zombie']","['1%', '1%']","['Private Island', 'Graveyard']",Item
+Bone Dye,"['Skeleton', 'Respawning Skeleton', 'Miner Skeleton']","['1/3000000', '1/3000000', '1/3000000']","['Private Island', 'Unincorporated', 'Deep Caverns']",Dye
+Bat Talisman,['Bat'],['1%'],['Private Island'],Accessory
+Enchanted Ender Pearl,['Voidling'],['0.0625%'],['Private Island'],Item
+Pesterminator I,['Beetle'],['3.5%'],['Garden'],Enchanted Book
+Not Just A Pest Vinyl,['Beetle'],['2%'],['Garden'],Item
+Mutant Nether Wart,['Beetle'],['0.5%'],['Garden'],Item
+Dung Dye,"['Beetle', 'Cricket', 'Fly', 'Locust', 'Mite', 'Mosquito', 'Moth', 'Rat(Pest)', 'Slug', 'Earthworm', 'Field Mouse']","['1/250000', '1/250000', '1/250000', '1/250000', '1/250000', '1/250000', '1/250000', '1/250000', '1/250000', '1/250000', '1/250000']","['Garden', 'Garden', 'Garden', 'Garden', 'Garden', 'Garden', 'Garden', 'Garden', 'Garden', 'Garden', 'Garden']",Dye
+Cricket Choir Vinyl,['Cricket'],['2%'],['Garden'],Item
+Enchanted Golden Carrot,['Cricket'],['0.5%'],['Garden'],Item
+Chirping Stereo,['Cricket'],['0.5%'],['Garden'],Item
+Pretty Fly Vinyl,['Fly'],['2%'],['Garden'],Item
+Beady Eyes,['Fly'],['1.5%'],['Garden'],Item
+Enchanted Hay Bale,['Fly'],['0.5%'],['Garden'],Item
+Cicada Symphony Vinyl,['Locust'],['2%'],['Garden'],Item
+Enchanted Baked Potato,['Locust'],['0.5%'],['Garden'],Item
+Sunder VI,['Locust'],['0.5%'],['Garden'],Enchanted Book
+DynaMITES Vinyl,['Mite'],['2%'],['Garden'],Item
+Enchanted Cactus,['Mite'],['0.5%'],['Garden'],Item
+Atmospheric Filter,['Mite'],['0.25%'],['Garden'],Accessory
+Buzzin' Beats Vinyl,['Mosquito'],['2%'],['Garden'],Item
+Clipped Wings,['Mosquito'],['1%'],['Garden'],Item
+Enchanted Sugar Cane,['Mosquito'],['0.5%'],['Garden'],Item
+Wings Of Harmony Vinyl,['Moth'],['2%'],['Garden'],Item
+Enchanted Cookie,['Moth'],['0.5%'],['Garden'],Item
+Wriggling Larva,['Moth'],['0.5%'],['Garden'],Item
+Rodent Revolution Vinyl,['Rat(Pest)'],['2%'],['Garden'],Item
+Polished Pumpkin,['Rat(Pest)'],['0.5%'],['Garden'],Item
+LEGENDARY Rat Pet,"['Rat(Pest)', 'Rat']","['0.2%', '0.2%']","['Garden', 'Hub']",Pet
+Slow And Groovy Vinyl,['Slug'],['2%'],['Garden'],Item
+EPIC Slug Pet,['Slug'],['0.5%'],['Garden'],Pet
+Enchanted Brown Mushroom Block,['Slug'],['0.25%'],['Garden'],Item
+Enchanted Red Mushroom Block,['Slug'],['0.25%'],['Garden'],Item
+LEGENDARY Slug Pet,['Slug'],['0.1%'],['Garden'],Pet
+Bookworm's Favorite Book,['Earthworm'],['2%'],['Garden'],Item
+Earthworm Ensemble Vinyl,['Earthworm'],['2%'],['Garden'],Item
+Enchanted Melon Block,['Earthworm'],['0.5%'],['Garden'],Item
+Squeaky Toy,['Field Mouse'],['2.5%'],['Garden'],Item
+Squeaky Mousemat,['Field Mouse'],['0.5%'],['Garden'],Item
+Golden Powder,['Golden Ghoul'],['0.05%'],['Hub Crypts'],Item
+EPIC Ghoul Pet,['Crypt Ghoul'],['0.003%'],['Hub Crypts'],Pet
+LEGENDARY Ghoul Pet,['Crypt Ghoul'],['0.001%'],['Hub Crypts'],Pet
+EPIC Hound Pet,"['Wolf', 'Old Wolf', 'Soul Of The Alpha', 'Pack Spirit', 'Howling Spirit']","['0.001%', '0.003%', '0.003%', '0.003%', '0.003%']","['Ruins', 'Ruins', 'Howling Cave', 'Howling Cave', 'Howling Cave']",Pet
+LEGENDARY Hound Pet,"['Wolf', 'Old Wolf', 'Soul Of The Alpha', 'Pack Spirit', 'Howling Spirit']","['0.0003%', '0.001%', '0.001%', '0.001%', '0.001%']","['Ruins', 'Ruins', 'Howling Cave', 'Howling Cave', 'Howling Cave']",Pet
+Wolf Talisman,['Old Wolf'],['0.1%'],['Ruins'],Accessory
+Weak Wolf Catalyst,['Soul Of The Alpha'],['0.089%'],['Howling Cave'],Item
+Travel Scroll To The Howling Cave,"['Soul Of The Alpha', 'Pack Spirit', 'Howling Spirit']","['0.035%', '0.02%', '0.02%']","['Howling Cave', 'Howling Cave', 'Howling Cave']",Item
+Foraging Exp Boost,['Soul Of The Alpha'],['0.01%'],['Howling Cave'],Item
+Pelt Dye,"['Trackable Trapper Animal', 'Untrackable Trapper Animal', 'Undetected Trapper Animal', 'Endangered Trapper Animal', 'Elusive Trapper Animal']","['1/250000', '1/200000', '1/150000', '1/100000', '1/10000']","['Mushroom Desert', 'Mushroom Desert', 'Mushroom Desert', 'Mushroom Desert', 'Mushroom Desert']",Dye
+Exp Share Core,"['Sneaky Creeper', 'Lapis Zombie', 'Redstone Pigman', 'Emerald Slime', 'Miner Zombie', 'Miner Skeleton']","['0.01%', '0.01%', '0.01%', '0.01%', '0.01%', '0.01%']","['Gunpowder Mines', 'Multiple', 'Multiple', 'Multiple', 'Deep Caverns', 'Deep Caverns']",Item
+Lapis Armor Chestplate,['Lapis Zombie'],['1%'],['Multiple'],Item
+Lapis Armor Leggings,['Lapis Zombie'],['1%'],['Multiple'],Item
+Lapis Armor Boots,['Lapis Zombie'],['1%'],['Multiple'],Item
+Lapis Armor Helmet,['Lapis Zombie'],['1%'],['Multiple'],Item
+Lapis Crystal,['Lapis Zombie'],['1%'],['Multiple'],Item
+Flaming Sword,['Redstone Pigman'],['1%'],['Multiple'],Item
+Miner Helmet,"['Miner Zombie', 'Miner Skeleton']","['1%', '1%']","['Deep Caverns', 'Deep Caverns']",Item
+Miner Leggings,"['Miner Zombie', 'Miner Skeleton']","['1%', '1%']","['Deep Caverns', 'Deep Caverns']",Item
+Miner Chestplate,"['Miner Zombie', 'Miner Skeleton']","['1%', '1%']","['Deep Caverns', 'Deep Caverns']",Item
+Miner Boots,"['Miner Zombie', 'Miner Skeleton']","['1%', '1%']","['Deep Caverns', 'Deep Caverns']",Item

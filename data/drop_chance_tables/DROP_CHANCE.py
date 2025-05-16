@@ -2,15 +2,8 @@ import pandas as pd
 
 file = 'data/drop_chance_tables/kills_bracket.csv'
 
-df = pd.read_csv(file)
+#df = pd.read_csv(file)
 
-def clean_number(val):
-    if isinstance(val, str):
-        val = val.replace(',', '')
-        if val.isdigit():
-            return int(val)
-    return val
-
-df = df.applymap(clean_number)
-
-df.to_csv(file, index=False)
+def drop_chance(magic_find : float, farming_fortune : float, pet_luck : float, drop_chance : float, useFarmingFortune : bool) -> float:
+    if not useFarmingFortune: return drop_chance * (1 + (magic_find + pet_luck) / 100)
+    else: return drop_chance * (1 + (magic_find + pet_luck) / 100)
