@@ -8,28 +8,51 @@ from controllers import UTILS
 from controllers import DISCORD
 
 def start():
-    start_stats = FILE.get_json("../data/gather_stats.json")
-    current_datetime = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+    gather_stats = FILE.get_json("data/gather_stats.json")
+    print(gather_stats)
+    current_datetime = datetime.now(timezone.utc)
+    session_seconds = 0
+
+    if "last_ran" not in gather_stats:
+        gather_stats["last_ran"] = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
+        last_ran = current_datetime
+    else:
+        last_ran = datetime.strptime(gather_stats["last_ran"], "%Y-%m-%d %H:%M:%S")
 
     print("[GATHER]: Starting to gather data")
     print(f"   |Date:  {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")}")
-    print(f"   |Last Ran:  {start_stats["last_ran"]}")
-    print(f"   |Seconds / Call:  {start_stats['seconds_per_call']}\n")
+    print(f"   |Last Ran:  {gather_stats["last_ran"]}")
+    print(f"   |Seconds / Call:  {gather_stats['seconds_per_call']}\n")
 
-    DISCORD.send_gather_start(current_datetime, start_stats)
+    DISCORD.send_gather_start(current_datetime.strftime("%Y-%m-%d %H:%M:%S"), gather_stats)
 
-    start_stats["last_ran"] = current_datetime
-    FILE.write_json(start_stats,"../data/gather_stats.json","w")
+    gather_stats["last_ran"] = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
+    FILE.write_json(gather_stats,"../data/gather_stats.json","w")
 
     running = True
     last_updated = None
     while running:
-        market_data = API.get_current_market_data()
+        hours = session_seconds // 3600
+        minutes = (session_seconds % 3600) // 60
+        seconds = session_seconds % 60
 
+        gather_stats["session_duration"] = f"{hours:02}:{minutes:02}:{seconds:02}"
+
+        if session_seconds % 15 == 0:
+            UTILS.create_skyfetch_img(gather_stats)
+            DISCORD.send_gather_img()
+
+        session_seconds += gather_stats['seconds_per_call']
+
+
+        market_data = API.get_current_market_data()
         market_data_time = datetime.fromtimestamp(market_data["lastUpdated"] / 1000)
 
         print("[GATHER]:")
         print(f"   |Data Last Updated:  {market_data_time}\n")
+
+        gather_stats["session_api_calls"] += 1
+        gather_stats["hourly_api_calls"] += 1
 
         if last_updated  != market_data["lastUpdated"]:
             last_updated = market_data_time
@@ -46,8 +69,5 @@ def start():
             print("[GATHER]:")
             print(f"   |Market Data logged at:  {write_time}\n")
 
-            DISCORD.send_gather_stats(datetime.fromtimestamp(write_time / 1000),last_updated)
 
-
-
-        time.sleep(start_stats['seconds_per_call'])
+        time.sleep(gather_stats['seconds_per_call'])

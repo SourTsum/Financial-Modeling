@@ -55,27 +55,13 @@ def send_gather_start(current_datetime, start_stats):
     if response.status_code != 204:
         print(f"Failed to send gather_stats: {response.status_code}, {response.text}")
 
-def send_gather_stats(write_time,last_updated):
-    embed = {
-        "embeds": [{
-            "title": "[GATHER]: Data Saved",
-            "color": 3447003,  # Blue
-            "fields": [
-                {
-                    "name": "File Timestamp",
-                    "value": str(write_time),
-                    "inline": False
-                },
-                {
-                    "name": "API Last Updated",
-                    "value": str(last_updated),
-                    "inline": True
-                }
-            ]
-        }]
-    }
+def send_gather_img():
+    with open("output/SkyFetch.png", "rb") as f:
+        files = {
+            "file": (os.path.basename("output/SkyFetch.png"), f, "image/png")
+        }
 
-    response = requests.post(WEBHOOK_URL, json=embed)
+        response = requests.post(WEBHOOK_URL, files=files)
 
-    if response.status_code != 204:
-        print(f"Failed to send gather_stats update: {response.status_code}, {response.text}")
+        if response.status_code != 200:
+            print(f"Failed to upload image: {response.status_code}, {response.text}")
