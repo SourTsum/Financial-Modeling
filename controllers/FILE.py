@@ -2,7 +2,7 @@ import json
 import os
 import zipfile
 from pathlib import Path
-import DISCORD
+from controllers import DISCORD
 
 def write_json(response, file, mode):
     try:
