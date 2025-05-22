@@ -2,7 +2,7 @@ Drop,Mob,Chance,Location,Type
 Poisonous Potato,"['Zombie', 'Graveyard Zombie', 'Zombie Villager']","['2%', '2%', '2%']","['Private Island', 'Graveyard', 'Graveyard']",Item
 Potato,"['Zombie', 'Graveyard Zombie']","['1%', '1%']","['Private Island', 'Graveyard']",Item
 Carrot,"['Zombie', 'Graveyard Zombie']","['1%', '1%']","['Private Island', 'Graveyard']",Item
-Bone Dye,"['Skeleton', 'Respawning Skeleton', 'Miner Skeleton']","['1/3000000', '1/3000000', '1/3000000']","['Private Island', 'Unincorporated', 'Deep Caverns']",Dye
+Bone Dye,"['Skeleton', 'Respawning Skeleton', 'Miner Skeleton', 'Gravel Skeleton', 'Jockey Skeleton']","['1/3000000', '1/3000000', '1/3000000', '1/3000000', '1/3000000']","['Private Island', 'Unincorporated', 'Deep Caverns', ""Spider's Den"", ""Spider's Den""]",Dye
 Bat Talisman,['Bat'],['1%'],['Private Island'],Accessory
 Enchanted Ender Pearl,['Voidling'],['0.0625%'],['Private Island'],Item
 Pesterminator I,['Beetle'],['3.5%'],['Garden'],Enchanted Book
@@ -61,3 +61,58 @@ Miner Helmet,"['Miner Zombie', 'Miner Skeleton']","['1%', '1%']","['Deep Caverns
 Miner Leggings,"['Miner Zombie', 'Miner Skeleton']","['1%', '1%']","['Deep Caverns', 'Deep Caverns']",Item
 Miner Chestplate,"['Miner Zombie', 'Miner Skeleton']","['1%', '1%']","['Deep Caverns', 'Deep Caverns']",Item
 Miner Boots,"['Miner Zombie', 'Miner Skeleton']","['1%', '1%']","['Deep Caverns', 'Deep Caverns']",Item
+Volta,['Ghost'],['0.2%'],['The Mist'],Item
+Sorrow,['Ghost'],['0.12%'],['The Mist'],Item
+Plasma,['Ghost'],['0.1%'],['The Mist'],Item
+Ghostly Boots,['Ghost'],['0.01%'],['The Mist'],Item
+Ghost Coin Drop,['Ghost'],['0.01%'],['The Mist'],Ghost Coin Drop
+Glacite Leggings,['Glacie Walker'],['0.5%'],['Great Ice Wall'],Item
+Glacite Boots,['Glacite Walker'],['0.5%'],['Great Ice Wall'],Item
+Glacite Chestplate,['Glacite Walker'],['0.5%'],['Great Ice Wall'],Item
+Glacite Helmet,['Glacite Walker'],['0.5%'],['Great Ice Wall'],Item
+Glacite Jewel,['Glacite Walker'],['0.5%'],['Great Ice Wall'],Item
+Kaleidoscopic Mineral,['Treasure Hoarder'],['1%'],['Upper Mines'],Item
+Treasurite,"['Treasure Hoarder', 'Team Treasurite Member']","['0.5%', '1%']","['Upper Mines', 'Mithril Deposits']",Item
+Goblin Egg,"['Goblin', 'Fireslinger', 'Knifethrower', 'Murderlover', 'Goblin Flamethrower']","['1%', '2%', '0.5%', '0.6%', '0.6%']","['Goblin Burrows', 'Multiple', 'Multiple', 'Multiple', 'Goblin Holdout']",Item
+Goblin Leggings,"['Goblin', 'Fireslinger', 'Knifethrower']","['0.3%', '0.3%', '0.5%']","['Goblin Burrows', 'Multiple', 'Multiple']",Item
+Goblin Chestplate,"['Goblin', 'Fireslinger', 'Knifethrower']","['0.3%', '0.3%', '0.3%']","['Goblin Burrows', 'Multiple', 'Multiple']",Item
+Goblin Boots,"['Goblin', 'Fireslinger', 'Knifethrower']","['0.3%', '0.3%', '0.3%']","['Goblin Burrows', 'Multiple', 'Multiple']",Item
+Goblin Helmet,"['Goblin', 'Fireslinger', 'Knifethrower']","['0.3%', '0.3%', '0.3%']","['Goblin Burrows', 'Multiple', 'Multiple']",Item
+Goblin Coin Drop,['Goblin'],['1%'],['Goblin Burrows'],Goblin Coin Drop
+Green Goblin Egg,"['Murderlover', 'Goblin Flamethrower']","['0.25%', '0.25%']","['Multiple', 'Goblin Holdout']",Item
+Yellow Goblin Egg,"['Murderlover', 'Goblin Flamethrower']","['0.1%', '0.1%']","['Multiple', 'Goblin Holdout']",Item
+Red Goblin Egg,"['Murderlover', 'Goblin Flamethrower']","['0.04%', '0.04%']","['Multiple', 'Goblin Holdout']",Item
+Blue Goblin Egg,"['Murderlover', 'Goblin Flamethrower']","['0.02%', '0.02%']","['Multiple', 'Goblin Holdout']",Item
+Pure Mithril Gem,['Diamond Goblin'],['1%'],['Multiple'],Item
+Synthetic Heart,"['[LV100] Automaton', '[LV150] Automaton']","['1%', '2%']","['Precursor Remnants', 'Lost Precursor City']",Item
+Control Switch,"['[LV100] Automaton', '[LV150] Automaton']","['1%', '2%']","['Precursor Remnants', 'Lost Precursor City']",Item
+Superlite Motor,"['[LV100] Automaton', '[LV150] Automaton']","['1%', '2%']","['Precursor Remnants', 'Lost Precursor City']",Item
+Robotron Reflector,"['[LV100] Automaton', '[LV150] Automaton']","['1%', '2%']","['Precursor Remnants', 'Lost Precursor City']",Item
+FTX 3070,"['[LV100] Automaton', '[LV150] Automaton']","['1%', '2%']","['Precursor Remnants', 'Lost Precursor City']",Item
+Electron Transmitter,"['[LV100] Automaton', '[LV150] Automaton']","['1%', '2%']","['Precursor Remnants', 'Lost Precursor City']",Item
+EPIC Bal Pet,['Bal'],['0.0126%'],['Khazad-dûm'],Pet
+LEGENDARY Bal Pet,['Bal'],['0.0054%'],['Khazad-dûm'],Pet
+Yoggie,['Bal'],['4.4991%'],['Khazad-dûm'],Item
+Jasper Crystal,['Butterfly'],['0.1%'],['Fairy Grotto'],Butterfly Jasper Crystal Drop
+RARE Scatha Pet,['Scatha'],['0.24%'],['Crystal Hollows'],Pet
+EPIC Scatha Pet,['Scatha'],['0.12%'],['Crystal Hollows'],Pet
+LEGENDARY Scatha Pet,['Scatha'],['0.04%'],['Crystal Hollows'],Pet
+EPIC Tarantula Pet,"['[LV300] Arachne', 'Broodmother', 'Dasher Spider', 'Splitter Spider', 'Weaver Spider']","['2%', '0.02%', '0.004%', '0.002%', '0.002%']","[""Arachne's Sanctuary"", 'Spider Mound', ""Spider's Den"", ""Spider's Den"", ""Spider's Den""]",Pet
+LEGENDARY Tarantula Pet,"['[LV500] Arachne', 'Broodmother', 'Dasher Spider', 'Splitter Spider', 'Weaver Spider']","['2%', '0.008%', '0.001%', '0.0008%', '0.001%']","[""Arachne's Sanctuary"", 'Spider Mound', ""Spider's Den"", ""Spider's Den"", ""Spider's Den""]",Pet
+Arachne's Gloves,"[""Arachne's Keeper""]",['2.5%'],"[""Spider's Den""]",Item
+Arachne's Belt,"[""Arachne's Keeper""]",['2.5%'],"[""Spider's Den""]",Item
+Arachne's Necklace,"[""Arachne's Keeper""]",['2.5%'],"[""Spider's Den""]",Item
+Arachne's Cloak,"[""Arachne's Keeper""]",['2.5%'],"[""Spider's Den""]",Item
+Travel Scroll To Spider's Den Top Of Nest,"['Broodmother', 'Dasher Spider', 'Spider Jockey', 'Splitter Spider', 'Weaver Spider']","['0.03%', '0.02%', '0.02%', '0.02%', '0.02%']","['Spider Mound', ""Spider's Den"", ""Spider's Den"", ""Spider's Den"", ""Spider's Den""]",Item
+Arachne's Calling,"['[LV42] Dasher Spider', '[LV45] Dasher Spider', '[LV50] Dasher Spider', '[LV42] Weaver Spider', '[LV45] Weaver Spider', '[LV50] Weaver Spider']","['0.2%', '0.2%', '0.2%', '0.2%', '0.2%', '0.2%']","[""Spider's Den"", ""Spider's Den"", ""Spider's Den"", ""Spider's Den"", ""Spider's Den"", ""Spider's Den""]",Item
+Dragon Horn,['Superior Dragon'],['30%'],"[""Dragon's Nest""]",Item
+Dragon Claw,['Ender Dragon'],['2% per Summoning Eye'],"[""Dragon's Nest""]",Item
+EPIC Ender Dragon Pet,['Ender Dragon'],['0.05% per Summoning Eye'],"[""Dragon's Nest""]",Pet
+LEGENDARY Ender Dragon Pet,['Ender Dragon'],['0.01% per Summoning Eye'],"[""Dragon's Nest""]",Pet
+Superior Dragon Chestplate,['Superior Dragon'],['30%'],"[""Dragon's Nest""]",Item
+Superior Dragon Leggings,['Superior Dragon'],['30%'],"[""Dragon's Nest""]",Item
+Superior Dragon Boots,['Superior Dragon'],['30%'],"[""Dragon's Nest""]",Item
+Aspect of the Dragons,['Strong Dragon'],['3% per Summoning Eye'],"[""Dragon's Nest""]",Item
+Pearlescent Dye,['Superior Dragon'],['1/50000'],"[""Dragon's Nest""]",Dye
+Strong Dragon Chestplate,['Strong Dragon'],['30%'],"[""Dragon's Nest""]",Item
+Strong Dragon Leggings,['Strong Dragon'],['30%'],"[""Dragon's Nest""]",Item
